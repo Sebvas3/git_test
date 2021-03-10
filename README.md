@@ -1,1 +1,0 @@
-This is SebVas3 first git project!
